@@ -1,0 +1,3 @@
+isaacowusu@Isaacs-MacBook-Pro fall_festival_roster_part2 % flutter analyze
+Analyzing fall_festival_roster_part2...                                 
+No issues found! (ran in 0.9s)
